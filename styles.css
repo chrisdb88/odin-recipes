@@ -1,0 +1,23 @@
+.fancy-heading1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    background-color: black;
+    color: white;
+    opacity: .9;
+}
+
+p,
+ul,
+ol {
+   font-size: 22px;
+   font-family: 'Times New Roman', Times, serif;
+}
+
+.main-heading {
+    text-align: center;
+}
+
+
+
+
+
